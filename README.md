@@ -187,6 +187,7 @@ PRD – Assistente de Finanças Pessoais Conversacional
 >não gostei do tamanho da fonte dos números que selecionei ,pois os números ultrapassam enquadramento dos ícones, poderia ajustar os números de forma que fiquem dentro dos seus respectivos quadrados
 
 Resultado final no Lovable:https://chatty-penny-companion.lovable.app/painel
+
 <img width="1763" height="1023" alt="image" src="https://github.com/user-attachments/assets/3d05ffce-24d7-4a85-9b29-02ef67a77672" />
 
 ### Funcionalidades do APP de Organização Financeira(bolso):
